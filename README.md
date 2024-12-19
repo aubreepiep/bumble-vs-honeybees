@@ -22,11 +22,11 @@ My goal is to build and demonstrate my fluency in business reporting metrics whi
 
 ## Analysis and Presenation methods
 #### Primary Data Sources
-Bumble Inc. Annual Report 2023  
-Bumble Inc. Proxy Statement 2024  
-Bumble Inc. Quarterly Results 2022-2024  
-USDA  National Agricultural Statistics Service (NASS) Honey Reports 3/15/24  
-USDA National Agricultural Statistics Service (NASS) Honey Reports 3/17/23  
+[Bumble Inc. Annual Report 2023](https://s202.q4cdn.com/372973788/files/doc_financials/2023/ar/Bumble-Inc-Annual-Report-2023.pdf)  
+[Bumble Inc. Proxy Statement 2024](https://s202.q4cdn.com/372973788/files/doc_financials/2024/sr/Bumble-Inc-Proxy-Statement-2024.pdf)  
+[Bumble Inc. Quarterly Results 2022-2024](https://ir.bumble.com/financials/quarterly-results/default.aspx)  
+[USDA  National Agricultural Statistics Service (NASS) Honey Reports 3/15/24](https://downloads.usda.library.cornell.edu/usda-esmis/files/hd76s004z/hm50wd54j/fq979h127/hony0324.pdf)  
+[USDA National Agricultural Statistics Service (NASS) Honey Reports 3/17/23](https://downloads.usda.library.cornell.edu/usda-esmis/files/hd76s004z/jq086x851/qn59rh469/hony0323.pdf)  
 
 ## Analysis Methods and Assumptions
 I attempted to do a side-by-side business analysis of Bumble Inc performance and bee producivity. While there are many obvious differences between a tech company and bees, I did my best to align metrics into their most comparable forms.   
