@@ -1,5 +1,6 @@
 # Bumble and the Bees
-[Presentation Link](https://www.canva.com/design/DAGZBd_bxAA/UGptKi8T_ykjJVto8Awy7A/view?utm_content=DAGZBd_bxAA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8cede17887)  
+[Presentation Link (Version to accompany verbal presentation)](https://www.canva.com/design/DAGZBd_bxAA/UGptKi8T_ykjJVto8Awy7A/view?utm_content=DAGZBd_bxAA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8cede17887)  
+[Presentation Link(Version to view without verbal presentation)](https://www.canva.com/design/DAGcv9-4Go8/DaRUNdiyiZIb9n0F--Wmpw/view?utm_content=DAGcv9-4Go8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14b42ccce6)
 [Dashboard Link](https://app.powerbi.com/links/w61vwZIYml?ctid=101da587-1843-4f52-8b8a-17b069c66d33&pbi_source=linkShare&bookmarkGuid=b8e85c3d-1eee-4f42-88c9-14742f2cfdd6)
 
 ## Executive Summary:
